@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "Ana Maia",
+    "firstName": "Ana",
+    "lastName": "Maia",
+    "email": "ana@test.com",
+    "password": "psw@123",
+    "phone": "11912453656",
+    "userStatus": 0
+  },
+  {
+    "id": 2,
+    "username": "Rodrigo Mendes",
+    "firstName": "Rodrigo",
+    "lastName": "Mendes",
+    "email": "rodrigo@test.com",
+    "password": "psw@123",
+    "phone": "11966557654",
+    "userStatus": 0
+  },
+  {
+    "id": 3,
+    "username": "Tatiana Vasconcelos",
+    "firstName": "Tatiana ",
+    "lastName": "Vasconcelos",
+    "email": "tati@test.com",
+    "password": "pws@123",
+    "phone": "11987633490",
+    "userStatus": 0
+  }
+]
